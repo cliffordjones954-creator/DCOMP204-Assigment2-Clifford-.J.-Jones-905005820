@@ -1,11 +1,11 @@
 ﻿# DCOMP204-Assigment2-Clifford-.J.-Jones-905005820
-#INTRODUCTION
+# INTRODUCTION
 Finding job and internship opportunities can be challenging for university students, recent graduates, and other job seekers in Sierra Leone. Many people rely on newspapers, lecturers, friends, and personal connections to discover available opportunities. However, finding vacancy information through these different sources can be difficult, and it may not always be easy to know whether an opportunity is genuine or still available.
 SierraWork is a proposed website designed to make job and internship opportunities more accessible by bringing them together on a single platform. The website will allow companies and organizations to submit vacancies for verification before publication. Job seekers will be able to browse verified opportunities, view job requirements, and apply through the application links provided.
 The project focuses on designing a simple, user-friendly website that connects companies with potential candidates while helping job seekers access relevant opportunities. It will include five main screens: Home, Job Listings, Job Details, About Us, and Contact Us.
 The purpose of this project is to apply web design and UI/UX principles to develop a website concept that addresses the challenges of discovering job opportunities and provides a more organized way for companies and job seekers to connect.
 
-#PROJECT PROPOSAL
+# PROJECT PROPOSAL
 Project Title: SierraWork A Website for Verified Jobs and Internship Opportunities in Sierra Leone
 
 Background
@@ -33,7 +33,7 @@ When a job seeker selects an opportunity, they can view its details and click th
 The website will provide a simple way for job seekers to discover opportunities and for companies to share vacancies without requiring users to create accounts.
 
 
-Target Users
+# Target Users
 The website is intended for the following groups:
 1. University Students
 Students looking for internships and opportunities to gain practical experience while studying.
@@ -44,7 +44,7 @@ Individuals looking for full-time or part-time employment opportunities in Sierr
 4. Companies and Organizations
 Businesses and organizations that want to advertise available positions and reach potential applicants.
 
-USER RESEARCH
+# USER RESEARCH
 TARGET USERS
 Primary Users
 1. University Students: University students who are looking for internship opportunities to gain practical experience before or during the completion of their studies.
@@ -106,18 +106,18 @@ The navigation bar will contain four main links:
 2. Navigation Description
 Users can access the four main pages through the navigation menu. When users select a job from the Job Listings page, they are taken to its Job Details page. From there, they can select the Apply for Job button, which opens the relevant Google Form to submit their application. The navigation structure is designed to be simple and consistent, allowing users to move between the main pages and find job opportunities without unnecessary steps.
 
-#USER JOURNEY
+# USER JOURNEY
 
 Visit Home Page        Open Job Listings        Filter Opportunities         Select an Opportunity        View Job Details         Apply for Job         Complete Google Form
 USER JOURNEY DESCRIPTION
 The user begins by visiting the SierraWork homepage and navigates to the Job Listings page. They can filter opportunities by category and select a suitable job. After reviewing the job details and confirming that they meet the requirements, they click the Apply for Job button. This opens the relevant Google Form, where they complete and submit their application.
 
-#CONCLUSION
+# CONCLUSION
 The SierraWork website is designed to address the challenges faced by university students, recent graduates, and other job seekers in finding job and internship opportunities in Sierra Leone. Through user research, information architecture, and wireframing, the project focuses on creating a simple and user-friendly website that brings opportunities together in one place.
 The website will allow users to browse internships, full-time jobs, and part-time jobs, view detailed information, and apply through Google Forms. Its verification process will help users identify opportunities that have been checked before publication.
 Overall, this project demonstrates how web design and UI/UX principles can be applied to solve a real-world problem. SierraWork aims to make job opportunities easier to discover and help companies connect with potential candidates.
 
-#REFERENCES
+# REFERENCES
 •	Rosenfeld, L., Morville, P. and Arango, J., Information Architecture: For the Web and Beyond, 4th edn (Sebastopol, CA: O’Reilly Media, 2015).
 •	Nielsen, J., ‘Site Map Usability’, Nielsen Norman Group, 1 September 2008. 
 •	Nielsen, J., ‘Site Map Usability, 1st Study’, Nielsen Norman Group, 5 January 2002. 
@@ -125,4 +125,4 @@ Overall, this project demonstrates how web design and UI/UX principles can be ap
 •	O’Reilly Media, ‘Navigation Systems’, in Information Architecture: For the Web and Beyond, 4th edn (2015). 
 
 
-#Note that all Jobs that are posted on this website are for demonstrative purposes only
+# Note that all Jobs that are posted on this website are for demonstrative purposes only
